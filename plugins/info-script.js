@@ -3,7 +3,7 @@ let text = `*${htki} SOURCE CODE ${htka}*
 ┌─❏
 │✦ *NON MD*
 │• *Script:*
-│➔ github.com/kannachann/kanna-wabot-update3
+│➔ github.com/Chinen-Miya/KannaBOT-MD-V1
 │• *Base:*
 │➔ github.com/bochilgaming/games-wabot
 │
