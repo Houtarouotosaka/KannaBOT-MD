@@ -56,7 +56,7 @@ global.ppulsa2 = '083143393763'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
+global.nomorbot = '6285888083107'
 global.nomorown = '62831433937633'
 global.namebot = 'Kanna BOT'
 global.nameown = 'Letta - Sama'
@@ -67,7 +67,7 @@ global.owner = [
   ['6283143393763'],
   ['6285712420674'],
   ['18126338970'],
-  ['62831433937633', '❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶', true]
+  ['6285888083107', '❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
